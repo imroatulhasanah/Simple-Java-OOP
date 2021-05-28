@@ -4,6 +4,7 @@ class Car {
     }
 }
 
+//disuruh ngedit ini
 public class SimpleOOP {
     public static void main(String[] args) {
         Car myCar = new Car();
